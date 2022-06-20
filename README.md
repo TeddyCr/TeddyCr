@@ -49,4 +49,8 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Profile of a First Time Home Buyer](https://medium.com/@teddycrpineau/profile-of-a-first-time-home-buyer-f6498b9aacc8?source=rss-16e0670af08f------2)
+- [Has Gimlet Media Invented A New Genre Of Podcasts?](https://medium.com/@teddycrpineau/has-gimlet-media-invented-the-plog-983533737398?source=rss-16e0670af08f------2)
+- [Unicorns: From Imaginary Horses To Tech Startups](https://medium.com/@teddycrpineau/unicorns-from-imaginary-horses-to-tech-startups-b5183a88106f?source=rss-16e0670af08f------2)
+- [3 Books Every Content Marketer Should Read](https://smallbusinessforum.co/3-books-every-content-marketer-should-read-5545629a81fa?source=rss-16e0670af08f------2)
 <!-- BLOG-POST-LIST:END -->
