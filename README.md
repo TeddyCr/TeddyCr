@@ -9,6 +9,9 @@
     <img src="https://shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TeddyCr&color=blue&style=flat-square" />
+</div>
 
 <h3 align="center">
 Hi there 👋
