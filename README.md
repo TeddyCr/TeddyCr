@@ -28,9 +28,15 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 ---
 
+#### ⚡️ Recent Activity
+<!--START_SECTION:activity-->
+
+---
+
 #### :hammer_and_wrench: Languages and Tools:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
