@@ -51,9 +51,11 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" width="60" height="60"/>
 </div>
