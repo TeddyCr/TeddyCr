@@ -71,7 +71,7 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Why are we Building a Data Quality Standard?](https://blog.open-metadata.org/why-are-we-building-a-data-quality-standard-1753fae87259?source=rss-16e0670af08f------2)
+- [Why an open standard for data quality is important](https://blog.open-metadata.org/why-are-we-building-a-data-quality-standard-1753fae87259?source=rss-16e0670af08f------2)
 - [Profile of a First Time Home Buyer](https://medium.com/@teddycrpineau/profile-of-a-first-time-home-buyer-f6498b9aacc8?source=rss-16e0670af08f------2)
 - [Has Gimlet Media Invented A New Genre Of Podcasts?](https://medium.com/@teddycrpineau/has-gimlet-media-invented-the-plog-983533737398?source=rss-16e0670af08f------2)
 - [Unicorns: From Imaginary Horses To Tech Startups](https://medium.com/@teddycrpineau/unicorns-from-imaginary-horses-to-tech-startups-b5183a88106f?source=rss-16e0670af08f------2)
