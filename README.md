@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/xzkostyan/clickhouse-sqlalchemy/pull/221) in [xzkostyan/clickhouse-sqlalchemy](https://github.com/xzkostyan/clickhouse-sqlalchemy)
-2. 💪 Opened PR [#9033](https://github.com/open-metadata/OpenMetadata/pull/9033) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Closed issue [#6163](https://github.com/open-metadata/OpenMetadata/issues/6163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#7497](https://github.com/open-metadata/OpenMetadata/issues/7497) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Opened issue [#9025](https://github.com/open-metadata/OpenMetadata/issues/9025) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#511](https://github.com/googleapis/python-bigquery-sqlalchemy/pull/511) in [googleapis/python-bigquery-sqlalchemy](https://github.com/googleapis/python-bigquery-sqlalchemy)
-7. 🗣 Commented on [#8358](https://github.com/open-metadata/OpenMetadata/issues/8358) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#7448](https://github.com/open-metadata/OpenMetadata/issues/7448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#9010](https://github.com/open-metadata/OpenMetadata/pull/9010) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#9009](https://github.com/open-metadata/OpenMetadata/issues/9009) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#9062](https://github.com/open-metadata/OpenMetadata/pull/9062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#9063](https://github.com/open-metadata/OpenMetadata/pull/9063) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#9062](https://github.com/open-metadata/OpenMetadata/pull/9062) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#8](https://github.com/open-metadata/openmetadata-demo/pull/8) in [open-metadata/openmetadata-demo](https://github.com/open-metadata/openmetadata-demo)
+5. ❗️ Closed issue [#6760](https://github.com/open-metadata/OpenMetadata/issues/6760) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#9033](https://github.com/open-metadata/OpenMetadata/pull/9033) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#221](https://github.com/xzkostyan/clickhouse-sqlalchemy/pull/221) in [xzkostyan/clickhouse-sqlalchemy](https://github.com/xzkostyan/clickhouse-sqlalchemy)
+8. 💪 Opened PR [#9033](https://github.com/open-metadata/OpenMetadata/pull/9033) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗️ Closed issue [#6163](https://github.com/open-metadata/OpenMetadata/issues/6163) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#7497](https://github.com/open-metadata/OpenMetadata/issues/7497) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
