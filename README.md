@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9160](https://github.com/open-metadata/OpenMetadata/pull/9160) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#9058](https://github.com/open-metadata/OpenMetadata/issues/9058) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Closed issue [#7448](https://github.com/open-metadata/OpenMetadata/issues/7448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#7448](https://github.com/open-metadata/OpenMetadata/issues/7448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#9177](https://github.com/open-metadata/OpenMetadata/pull/9177) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#9177](https://github.com/open-metadata/OpenMetadata/pull/9177) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#9001](https://github.com/open-metadata/OpenMetadata/issues/9001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#9001](https://github.com/open-metadata/OpenMetadata/issues/9001) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 5. 🗣 Commented on [#9041](https://github.com/open-metadata/OpenMetadata/issues/9041) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#9159](https://github.com/open-metadata/OpenMetadata/issues/9159) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#9159](https://github.com/open-metadata/OpenMetadata/pull/9159) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#511](https://github.com/googleapis/python-bigquery-sqlalchemy/issues/511) in [googleapis/python-bigquery-sqlalchemy](https://github.com/googleapis/python-bigquery-sqlalchemy)
-9. 🗣 Commented on [#8896](https://github.com/open-metadata/OpenMetadata/issues/8896) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#9041](https://github.com/open-metadata/OpenMetadata/issues/9041) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#9058](https://github.com/open-metadata/OpenMetadata/issues/9058) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#9058](https://github.com/open-metadata/OpenMetadata/issues/9058) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#9058](https://github.com/open-metadata/OpenMetadata/issues/9058) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#9160](https://github.com/open-metadata/OpenMetadata/pull/9160) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#9058](https://github.com/open-metadata/OpenMetadata/issues/9058) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
