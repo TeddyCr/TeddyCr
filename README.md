@@ -63,7 +63,7 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 ---
 
 #### 🔥 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyCr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyCr&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
