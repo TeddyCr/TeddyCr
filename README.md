@@ -63,9 +63,7 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 ---
 
 #### 🔥 My Stats:
-[![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=TeddyCr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=TeddyCr&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyCr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
