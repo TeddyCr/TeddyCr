@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10290](https://github.com/open-metadata/OpenMetadata/issues/10290) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗️ Opened issue [#10284](https://github.com/open-metadata/OpenMetadata/issues/10284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗️ Closed issue [#9301](https://github.com/open-metadata/OpenMetadata/issues/9301) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#10244](https://github.com/open-metadata/OpenMetadata/pull/10244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❗️ Closed issue [#10245](https://github.com/open-metadata/OpenMetadata/issues/10245) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#10246](https://github.com/open-metadata/OpenMetadata/pull/10246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#10246](https://github.com/open-metadata/OpenMetadata/pull/10246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ❗️ Opened issue [#10245](https://github.com/open-metadata/OpenMetadata/issues/10245) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 💪 Opened PR [#10244](https://github.com/open-metadata/OpenMetadata/pull/10244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗️ Opened issue [#10243](https://github.com/open-metadata/OpenMetadata/issues/10243) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗️ Opened issue [#10314](https://github.com/open-metadata/OpenMetadata/issues/10314) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#511](https://github.com/googleapis/python-bigquery-sqlalchemy/issues/511) in [googleapis/python-bigquery-sqlalchemy](https://github.com/googleapis/python-bigquery-sqlalchemy)
+3. 🗣 Commented on [#10310](https://github.com/open-metadata/OpenMetadata/issues/10310) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗️ Opened issue [#10290](https://github.com/open-metadata/OpenMetadata/issues/10290) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗️ Opened issue [#10284](https://github.com/open-metadata/OpenMetadata/issues/10284) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗️ Closed issue [#9301](https://github.com/open-metadata/OpenMetadata/issues/9301) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#10244](https://github.com/open-metadata/OpenMetadata/pull/10244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗️ Closed issue [#10245](https://github.com/open-metadata/OpenMetadata/issues/10245) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#10246](https://github.com/open-metadata/OpenMetadata/pull/10246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#10246](https://github.com/open-metadata/OpenMetadata/pull/10246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
