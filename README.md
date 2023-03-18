@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10634](https://github.com/open-metadata/OpenMetadata/pull/10634) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#10634](https://github.com/open-metadata/OpenMetadata/pull/10634) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#10633](https://github.com/open-metadata/OpenMetadata/issues/10633) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#9656](https://github.com/open-metadata/OpenMetadata/issues/9656) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#176562](https://github.com/microsoft/vscode/issues/176562) in [microsoft/vscode](https://github.com/microsoft/vscode)
-6. 🎉 Merged PR [#10552](https://github.com/open-metadata/OpenMetadata/pull/10552) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#176562](https://github.com/microsoft/vscode/issues/176562) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#10651](https://github.com/open-metadata/OpenMetadata/pull/10651) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#10646](https://github.com/open-metadata/OpenMetadata/pull/10646) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#10646](https://github.com/open-metadata/OpenMetadata/pull/10646) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#10634](https://github.com/open-metadata/OpenMetadata/pull/10634) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#10634](https://github.com/open-metadata/OpenMetadata/pull/10634) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#10633](https://github.com/open-metadata/OpenMetadata/issues/10633) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#9656](https://github.com/open-metadata/OpenMetadata/issues/9656) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 8. 🗣 Commented on [#176562](https://github.com/microsoft/vscode/issues/176562) in [microsoft/vscode](https://github.com/microsoft/vscode)
-9. 🗣 Commented on [#176562](https://github.com/microsoft/vscode/issues/176562) in [microsoft/vscode](https://github.com/microsoft/vscode)
-10. 🎉 Merged PR [#10574](https://github.com/open-metadata/OpenMetadata/pull/10574) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#10552](https://github.com/open-metadata/OpenMetadata/pull/10552) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#176562](https://github.com/microsoft/vscode/issues/176562) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ---
