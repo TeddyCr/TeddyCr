@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12341](https://github.com/open-metadata/OpenMetadata/issues/12341) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🔒 Closed issue [#11973](https://github.com/open-metadata/OpenMetadata/issues/11973) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#12244](https://github.com/open-metadata/OpenMetadata/pull/12244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. ❗ Opened issue [#12329](https://github.com/open-metadata/OpenMetadata/issues/12329) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#12234](https://github.com/open-metadata/OpenMetadata/pull/12234) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#12316](https://github.com/open-metadata/OpenMetadata/pull/12316) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🎉 Merged PR [#12312](https://github.com/open-metadata/OpenMetadata/pull/12312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#12312](https://github.com/open-metadata/OpenMetadata/pull/12312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#21537](https://github.com/microsoft/vscode-python/issues/21537) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-10. ❗ Opened issue [#12305](https://github.com/open-metadata/OpenMetadata/issues/12305) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#12369](https://github.com/open-metadata/OpenMetadata/pull/12369) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#21537](https://github.com/microsoft/vscode-python/issues/21537) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+3. ❗ Opened issue [#12341](https://github.com/open-metadata/OpenMetadata/issues/12341) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🔒 Closed issue [#11973](https://github.com/open-metadata/OpenMetadata/issues/11973) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#12244](https://github.com/open-metadata/OpenMetadata/pull/12244) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗ Opened issue [#12329](https://github.com/open-metadata/OpenMetadata/issues/12329) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#12234](https://github.com/open-metadata/OpenMetadata/pull/12234) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#12316](https://github.com/open-metadata/OpenMetadata/pull/12316) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#12312](https://github.com/open-metadata/OpenMetadata/pull/12312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 💪 Opened PR [#12312](https://github.com/open-metadata/OpenMetadata/pull/12312) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
