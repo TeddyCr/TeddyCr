@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15145](https://github.com/open-metadata/OpenMetadata/pull/15145) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#15203](https://github.com/open-metadata/OpenMetadata/pull/15203) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#15203](https://github.com/open-metadata/OpenMetadata/pull/15203) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#15133](https://github.com/open-metadata/OpenMetadata/issues/15133#issuecomment-1946235019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🗣 Commented on [#15189](https://github.com/open-metadata/OpenMetadata/pull/15189#issuecomment-1946226938) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🗣 Commented on [#15189](https://github.com/open-metadata/OpenMetadata/pull/15189#issuecomment-1946123083) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#15186](https://github.com/open-metadata/OpenMetadata/pull/15186) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#15133](https://github.com/open-metadata/OpenMetadata/issues/15133#issuecomment-1940620944) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#15136](https://github.com/open-metadata/OpenMetadata/pull/15136#issuecomment-1940617378) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#15147](https://github.com/open-metadata/OpenMetadata/pull/15147#issuecomment-1940610915) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❗ Opened issue [#1443](https://github.com/microsoft/vscode-java-debug/issues/1443) in [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug)
+2. 🎉 Merged PR [#15145](https://github.com/open-metadata/OpenMetadata/pull/15145) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#15203](https://github.com/open-metadata/OpenMetadata/pull/15203) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 💪 Opened PR [#15203](https://github.com/open-metadata/OpenMetadata/pull/15203) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#15133](https://github.com/open-metadata/OpenMetadata/issues/15133#issuecomment-1946235019) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#15189](https://github.com/open-metadata/OpenMetadata/pull/15189#issuecomment-1946226938) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#15189](https://github.com/open-metadata/OpenMetadata/pull/15189#issuecomment-1946123083) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#15186](https://github.com/open-metadata/OpenMetadata/pull/15186) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🗣 Commented on [#15133](https://github.com/open-metadata/OpenMetadata/issues/15133#issuecomment-1940620944) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#15136](https://github.com/open-metadata/OpenMetadata/pull/15136#issuecomment-1940617378) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
