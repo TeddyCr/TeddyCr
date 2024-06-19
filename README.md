@@ -33,10 +33,10 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-2. 🔓 Reopened issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-3. 🔒 Closed issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-4. 🔓 Reopened issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+1. 🔓 Reopened issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+2. 🔒 Closed issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+3. 🔓 Reopened issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+4. 🗣 Commented on [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1#issuecomment-2176980151) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
 5. 🔒 Closed issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
 6. 🔓 Reopened issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
 7. 🔒 Closed issue [#1](https://github.com/TeddyCr/go-data-model-codegenerator/issues/1) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
