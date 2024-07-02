@@ -33,8 +33,8 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-2. 🔒 Closed issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+1. 🎉 Merged PR [#16865](https://github.com/open-metadata/OpenMetadata/pull/16865) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#16865](https://github.com/open-metadata/OpenMetadata/pull/16865) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 3. 🔓 Reopened issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
 4. 🔒 Closed issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
 5. 🔓 Reopened issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
