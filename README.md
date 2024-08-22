@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16550](https://github.com/open-metadata/OpenMetadata/issues/16550#issuecomment-2299156761) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#10860](https://github.com/open-metadata/OpenMetadata/issues/10860#issuecomment-2299153424) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#17491](https://github.com/open-metadata/OpenMetadata/pull/17491) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🔒 Closed issue [#16560](https://github.com/open-metadata/OpenMetadata/issues/16560) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#17504](https://github.com/open-metadata/OpenMetadata/pull/17504) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#17491](https://github.com/open-metadata/OpenMetadata/pull/17491) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🔒 Closed issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-8. 🔓 Reopened issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-9. 🔒 Closed issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
-10. 🔓 Reopened issue [#3](https://github.com/TeddyCr/go-data-model-codegenerator/issues/3) in [TeddyCr/go-data-model-codegenerator](https://github.com/TeddyCr/go-data-model-codegenerator)
+1. 💪 Opened PR [#17537](https://github.com/open-metadata/OpenMetadata/pull/17537) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 💪 Opened PR [#17535](https://github.com/open-metadata/OpenMetadata/pull/17535) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🗣 Commented on [#17465](https://github.com/open-metadata/OpenMetadata/issues/17465#issuecomment-2301919116) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🔒 Closed issue [#17465](https://github.com/open-metadata/OpenMetadata/issues/17465) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❌ Closed PR [#17532](https://github.com/open-metadata/OpenMetadata/pull/17532) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 💪 Opened PR [#17532](https://github.com/open-metadata/OpenMetadata/pull/17532) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🗣 Commented on [#16550](https://github.com/open-metadata/OpenMetadata/issues/16550#issuecomment-2299156761) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🗣 Commented on [#10860](https://github.com/open-metadata/OpenMetadata/issues/10860#issuecomment-2299153424) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#17491](https://github.com/open-metadata/OpenMetadata/pull/17491) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🔒 Closed issue [#16560](https://github.com/open-metadata/OpenMetadata/issues/16560) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
