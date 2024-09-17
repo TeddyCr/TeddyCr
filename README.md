@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17831](https://github.com/open-metadata/OpenMetadata/pull/17831) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#17738](https://github.com/open-metadata/OpenMetadata/pull/17738) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#17801](https://github.com/open-metadata/OpenMetadata/pull/17801) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 💪 Opened PR [#17801](https://github.com/open-metadata/OpenMetadata/pull/17801) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#261](https://github.com/open-metadata/openmetadata-helm-charts/pull/261) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
-6. 💪 Opened PR [#261](https://github.com/open-metadata/openmetadata-helm-charts/pull/261) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
-7. 🚀 Published release [1.5.3-release](https://github.com/open-metadata/OpenMetadata/releases/tag/1.5.3-release) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#17766](https://github.com/open-metadata/OpenMetadata/pull/17766) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#17706](https://github.com/open-metadata/OpenMetadata/pull/17706) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🔒 Closed issue [#17730](https://github.com/open-metadata/OpenMetadata/issues/17730) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#17862](https://github.com/open-metadata/OpenMetadata/pull/17862) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🎉 Merged PR [#17831](https://github.com/open-metadata/OpenMetadata/pull/17831) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#17738](https://github.com/open-metadata/OpenMetadata/pull/17738) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#17801](https://github.com/open-metadata/OpenMetadata/pull/17801) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#17801](https://github.com/open-metadata/OpenMetadata/pull/17801) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#261](https://github.com/open-metadata/openmetadata-helm-charts/pull/261) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
+7. 💪 Opened PR [#261](https://github.com/open-metadata/openmetadata-helm-charts/pull/261) in [open-metadata/openmetadata-helm-charts](https://github.com/open-metadata/openmetadata-helm-charts)
+8. 🚀 Published release [1.5.3-release](https://github.com/open-metadata/OpenMetadata/releases/tag/1.5.3-release) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#17766](https://github.com/open-metadata/OpenMetadata/pull/17766) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#17706](https://github.com/open-metadata/OpenMetadata/pull/17706) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
