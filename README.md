@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TeddyCr/priceitt/pull/1) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
-2. 🎉 Merged PR [#2](https://github.com/TeddyCr/priceitt/pull/2) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
-3. 💪 Opened PR [#2](https://github.com/TeddyCr/priceitt/pull/2) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
-4. 💪 Opened PR [#19155](https://github.com/open-metadata/OpenMetadata/pull/19155) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#19101](https://github.com/open-metadata/OpenMetadata/pull/19101) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#19102](https://github.com/open-metadata/OpenMetadata/pull/19102) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#19101](https://github.com/open-metadata/OpenMetadata/pull/19101) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#16679](https://github.com/open-metadata/OpenMetadata/issues/16679#issuecomment-2540667544) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🔒 Closed issue [#16679](https://github.com/open-metadata/OpenMetadata/issues/16679) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#19034](https://github.com/open-metadata/OpenMetadata/pull/19034) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#3](https://github.com/TeddyCr/priceitt/pull/3) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
+2. 💪 Opened PR [#3](https://github.com/TeddyCr/priceitt/pull/3) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
+3. 🎉 Merged PR [#1](https://github.com/TeddyCr/priceitt/pull/1) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
+4. 🎉 Merged PR [#2](https://github.com/TeddyCr/priceitt/pull/2) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
+5. 💪 Opened PR [#2](https://github.com/TeddyCr/priceitt/pull/2) in [TeddyCr/priceitt](https://github.com/TeddyCr/priceitt)
+6. 💪 Opened PR [#19155](https://github.com/open-metadata/OpenMetadata/pull/19155) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#19101](https://github.com/open-metadata/OpenMetadata/pull/19101) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#19102](https://github.com/open-metadata/OpenMetadata/pull/19102) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#19101](https://github.com/open-metadata/OpenMetadata/pull/19101) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#16679](https://github.com/open-metadata/OpenMetadata/issues/16679#issuecomment-2540667544) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
