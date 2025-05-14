@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21138](https://github.com/open-metadata/OpenMetadata/issues/21138) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗ Opened issue [#21123](https://github.com/open-metadata/OpenMetadata/issues/21123) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#21122](https://github.com/open-metadata/OpenMetadata/issues/21122) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🗣 Commented on [#15175](https://github.com/open-metadata/OpenMetadata/issues/15175#issuecomment-2865563086) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🔒 Closed issue [#15175](https://github.com/open-metadata/OpenMetadata/issues/15175) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗ Opened issue [#21119](https://github.com/open-metadata/OpenMetadata/issues/21119) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🔒 Closed issue [#12021](https://github.com/open-metadata/OpenMetadata/issues/12021) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🗣 Commented on [#18690](https://github.com/open-metadata/OpenMetadata/issues/18690#issuecomment-2865377770) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🗣 Commented on [#21081](https://github.com/open-metadata/OpenMetadata/issues/21081#issuecomment-2863286842) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🗣 Commented on [#12198](https://github.com/open-metadata/OpenMetadata/issues/12198#issuecomment-2858929448) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#84](https://github.com/dbt-labs/dbt-docs/issues/84#issuecomment-2875441008) in [dbt-labs/dbt-docs](https://github.com/dbt-labs/dbt-docs)
+2. ❗ Opened issue [#21158](https://github.com/open-metadata/OpenMetadata/issues/21158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ❗ Opened issue [#21138](https://github.com/open-metadata/OpenMetadata/issues/21138) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#21123](https://github.com/open-metadata/OpenMetadata/issues/21123) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ❗ Opened issue [#21122](https://github.com/open-metadata/OpenMetadata/issues/21122) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#15175](https://github.com/open-metadata/OpenMetadata/issues/15175#issuecomment-2865563086) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#15175](https://github.com/open-metadata/OpenMetadata/issues/15175) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❗ Opened issue [#21119](https://github.com/open-metadata/OpenMetadata/issues/21119) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🔒 Closed issue [#12021](https://github.com/open-metadata/OpenMetadata/issues/12021) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🗣 Commented on [#18690](https://github.com/open-metadata/OpenMetadata/issues/18690#issuecomment-2865377770) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
