@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20463](https://github.com/open-metadata/OpenMetadata/issues/20463) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#24076](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❗ Opened issue [#24020](https://github.com/open-metadata/OpenMetadata/issues/24020) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4.  Assigned issue [#24020](https://github.com/open-metadata/OpenMetadata/issues/24020) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🔒 Closed issue [#23996](https://github.com/open-metadata/OpenMetadata/issues/23996) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🔒 Closed issue [#23955](https://github.com/open-metadata/OpenMetadata/issues/23955) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 💪 Opened PR [#23988](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8.  Assigned issue [#23880](https://github.com/open-metadata/OpenMetadata/issues/23880) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❌ Labeled PR [#23986](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🔒 Closed issue [#21319](https://github.com/open-metadata/OpenMetadata/issues/21319) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#24117](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🔒 Closed issue [#20463](https://github.com/open-metadata/OpenMetadata/issues/20463) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#24076](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❗ Opened issue [#24020](https://github.com/open-metadata/OpenMetadata/issues/24020) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5.  Assigned issue [#24020](https://github.com/open-metadata/OpenMetadata/issues/24020) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#23996](https://github.com/open-metadata/OpenMetadata/issues/23996) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#23955](https://github.com/open-metadata/OpenMetadata/issues/23955) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#23988](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9.  Assigned issue [#23880](https://github.com/open-metadata/OpenMetadata/issues/23880) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❌ Labeled PR [#23986](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
