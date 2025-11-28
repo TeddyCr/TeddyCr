@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#24565](https://github.com/open-metadata/OpenMetadata/issues/24565) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❗ Opened issue [#24565](https://github.com/open-metadata/OpenMetadata/issues/24565) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#1190](https://github.com/JetBrains/koog/pull/1190#issuecomment-3582108502) in [JetBrains/koog](https://github.com/JetBrains/koog)
-4. 💪 Opened PR [#1190](undefined) in [JetBrains/koog](https://github.com/JetBrains/koog)
-5.  Assigned issue [#24555](https://github.com/open-metadata/OpenMetadata/issues/24555) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗ Opened issue [#24555](https://github.com/open-metadata/OpenMetadata/issues/24555) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🗣 Commented on [#1443](https://github.com/microsoft/vscode-java-debug/issues/1443#issuecomment-3576064829) in [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug)
-8. 🔒 Closed issue [#1443](https://github.com/microsoft/vscode-java-debug/issues/1443) in [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug)
-9. 💪 Opened PR [#24540](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10.  Assigned issue [#24538](https://github.com/open-metadata/OpenMetadata/issues/24538) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🔒 Closed issue [#23197](https://github.com/open-metadata/OpenMetadata/issues/23197) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#23197](https://github.com/open-metadata/OpenMetadata/issues/23197#issuecomment-3586686657) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3.  Assigned issue [#23199](https://github.com/open-metadata/OpenMetadata/issues/23199) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4.  Labeled issue [#23990](https://github.com/open-metadata/OpenMetadata/issues/23990) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🔒 Closed issue [#24113](https://github.com/open-metadata/OpenMetadata/issues/24113) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#24113](https://github.com/open-metadata/OpenMetadata/issues/24113#issuecomment-3586611723) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7.  Labeled issue [#24164](https://github.com/open-metadata/OpenMetadata/issues/24164) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8.  Labeled issue [#24164](https://github.com/open-metadata/OpenMetadata/issues/24164) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9.  Labeled issue [#23978](https://github.com/open-metadata/OpenMetadata/issues/23978) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10.  Labeled issue [#23978](https://github.com/open-metadata/OpenMetadata/issues/23978) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
