@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#24858](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#24858](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. ❌ Merged PR [#1190](undefined) in [JetBrains/koog](https://github.com/JetBrains/koog)
-4. 🗣 Commented on [#1190](https://github.com/JetBrains/koog/pull/1190#issuecomment-3659346525) in [JetBrains/koog](https://github.com/JetBrains/koog)
-5. ❌ Merged PR [#24818](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❌ Merged PR [#24834](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. 🔒 Closed issue [#22624](https://github.com/open-metadata/OpenMetadata/issues/22624) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#24834](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ❌ Merged PR [#24812](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 💪 Opened PR [#24818](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 💪 Opened PR [#24904](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ❌ Merged PR [#24858](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#24858](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ❌ Merged PR [#1190](undefined) in [JetBrains/koog](https://github.com/JetBrains/koog)
+5. 🗣 Commented on [#1190](https://github.com/JetBrains/koog/pull/1190#issuecomment-3659346525) in [JetBrains/koog](https://github.com/JetBrains/koog)
+6. ❌ Merged PR [#24818](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❌ Merged PR [#24834](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🔒 Closed issue [#22624](https://github.com/open-metadata/OpenMetadata/issues/22624) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 💪 Opened PR [#24834](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❌ Merged PR [#24812](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
