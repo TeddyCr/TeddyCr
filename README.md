@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24938](https://github.com/open-metadata/OpenMetadata/pull/24938#issuecomment-3678678280) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#24935](https://github.com/open-metadata/OpenMetadata/pull/24935#issuecomment-3677911677) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 💪 Opened PR [#24938](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🔒 Closed issue [#22689](https://github.com/open-metadata/OpenMetadata/issues/22689) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. ❌ Merged PR [#24921](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 💪 Opened PR [#24935](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❌ Merged PR [#24923](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🔒 Closed issue [#24306](https://github.com/open-metadata/OpenMetadata/issues/24306) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9.  Assigned issue [#24930](https://github.com/open-metadata/OpenMetadata/issues/24930) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ❗ Opened issue [#24930](https://github.com/open-metadata/OpenMetadata/issues/24930) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🗣 Commented on [#24904](https://github.com/open-metadata/OpenMetadata/pull/24904#issuecomment-3682909274) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🗣 Commented on [#24904](https://github.com/open-metadata/OpenMetadata/pull/24904#issuecomment-3682883432) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#24963](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#24959](https://github.com/open-metadata/OpenMetadata/pull/24959#issuecomment-3682865781) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#24959](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6.  Assigned issue [#24958](https://github.com/open-metadata/OpenMetadata/issues/24958) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. ❗ Opened issue [#24958](https://github.com/open-metadata/OpenMetadata/issues/24958) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ❌ Closed PR [#111](undefined) in [karpathy/micrograd](https://github.com/karpathy/micrograd)
+9. ❌ Merged PR [#24938](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❌ Merged PR [#24935](undefined) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
