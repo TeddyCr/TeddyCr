@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24641](https://github.com/open-metadata/OpenMetadata/issues/24641) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#25047](https://github.com/open-metadata/OpenMetadata/pull/25047) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🔒 Closed issue [#25049](https://github.com/open-metadata/OpenMetadata/issues/25049) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🎉 Merged PR [#25050](https://github.com/open-metadata/OpenMetadata/pull/25050) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 🎉 Merged PR [#25048](https://github.com/open-metadata/OpenMetadata/pull/25048) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. 🎉 Merged PR [#24904](https://github.com/open-metadata/OpenMetadata/pull/24904) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ℹ️ Assigned issue [#24621](https://github.com/open-metadata/OpenMetadata/issues/24621) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ℹ️ Assigned issue [#24306](https://github.com/open-metadata/OpenMetadata/issues/24306) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ℹ️ Assigned issue [#24164](https://github.com/open-metadata/OpenMetadata/issues/24164) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ℹ️ Unassigned issue [#22934](https://github.com/open-metadata/OpenMetadata/issues/22934) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#134](https://github.com/open-metadata/docs-collate/pull/134) in [open-metadata/docs-collate](https://github.com/open-metadata/docs-collate)
+2. 💪 Opened PR [#134](https://github.com/open-metadata/docs-collate/pull/134) in [open-metadata/docs-collate](https://github.com/open-metadata/docs-collate)
+3. 🗣 Commented on [#23550](https://github.com/open-metadata/OpenMetadata/issues/23550#issuecomment-3728432916) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ℹ️ Assigned issue [#19051](https://github.com/open-metadata/OpenMetadata/issues/19051) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. ℹ️ Unassigned issue [#19051](https://github.com/open-metadata/OpenMetadata/issues/19051) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#24641](https://github.com/open-metadata/OpenMetadata/issues/24641) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🎉 Merged PR [#25047](https://github.com/open-metadata/OpenMetadata/pull/25047) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🔒 Closed issue [#25049](https://github.com/open-metadata/OpenMetadata/issues/25049) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. 🎉 Merged PR [#25050](https://github.com/open-metadata/OpenMetadata/pull/25050) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. 🎉 Merged PR [#25048](https://github.com/open-metadata/OpenMetadata/pull/25048) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
