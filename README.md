@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25323](https://github.com/open-metadata/OpenMetadata/pull/25323) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 💪 Opened PR [#25323](https://github.com/open-metadata/OpenMetadata/pull/25323) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#67783](https://github.com/StarRocks/starrocks/pull/67783#issuecomment-3754256252) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-4. 🎉 Merged PR [#67783](https://github.com/StarRocks/starrocks/pull/67783) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-5. 🗣 Commented on [#67783](https://github.com/StarRocks/starrocks/pull/67783#issuecomment-3748231754) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-6. ℹ️ Assigned issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ❗ Opened issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 🔒 Closed issue [#24555](https://github.com/open-metadata/OpenMetadata/issues/24555) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🔒 Closed issue [#10530](https://github.com/open-metadata/OpenMetadata/issues/10530) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🔒 Closed issue [#24833](https://github.com/open-metadata/OpenMetadata/issues/24833) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#25261](https://github.com/open-metadata/OpenMetadata/pull/25261) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Unassigned issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Assigned issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🎉 Merged PR [#25323](https://github.com/open-metadata/OpenMetadata/pull/25323) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#25323](https://github.com/open-metadata/OpenMetadata/pull/25323) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🗣 Commented on [#67783](https://github.com/StarRocks/starrocks/pull/67783#issuecomment-3754256252) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+7. 🎉 Merged PR [#67783](https://github.com/StarRocks/starrocks/pull/67783) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+8. 🗣 Commented on [#67783](https://github.com/StarRocks/starrocks/pull/67783#issuecomment-3748231754) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+9. ℹ️ Assigned issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ❗ Opened issue [#25285](https://github.com/open-metadata/OpenMetadata/issues/25285) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
