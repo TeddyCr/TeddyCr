@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26190](https://github.com/open-metadata/OpenMetadata/issues/26190#issuecomment-3987832075) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🗣 Commented on [#25727](https://github.com/open-metadata/OpenMetadata/issues/25727#issuecomment-3987785366) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#26031](https://github.com/open-metadata/OpenMetadata/pull/26031) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🔒 Closed issue [#20036](https://github.com/open-metadata/OpenMetadata/issues/20036) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#26189](https://github.com/open-metadata/OpenMetadata/pull/26189) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ❗ Opened issue [#15796](https://github.com/googleapis/google-cloud-python/issues/15796) in [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python)
-7. ℹ️ Labeled PR [#26158](https://github.com/open-metadata/OpenMetadata/pull/26158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. 💪 Opened PR [#26158](https://github.com/open-metadata/OpenMetadata/pull/26158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. 🎉 Merged PR [#57](https://github.com/open-metadata/docs-om/pull/57) in [open-metadata/docs-om](https://github.com/open-metadata/docs-om)
-10. 🎉 Merged PR [#173](https://github.com/open-metadata/docs-collate/pull/173) in [open-metadata/docs-collate](https://github.com/open-metadata/docs-collate)
+1. 💪 Opened PR [#326](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/326) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+2. 🎉 Merged PR [#26189](https://github.com/open-metadata/OpenMetadata/pull/26189) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 🎉 Merged PR [#26158](https://github.com/open-metadata/OpenMetadata/pull/26158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. 🗣 Commented on [#26190](https://github.com/open-metadata/OpenMetadata/issues/26190#issuecomment-3987832075) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🗣 Commented on [#25727](https://github.com/open-metadata/OpenMetadata/issues/25727#issuecomment-3987785366) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🎉 Merged PR [#26031](https://github.com/open-metadata/OpenMetadata/pull/26031) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 🔒 Closed issue [#20036](https://github.com/open-metadata/OpenMetadata/issues/20036) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 💪 Opened PR [#26189](https://github.com/open-metadata/OpenMetadata/pull/26189) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❗ Opened issue [#15796](https://github.com/googleapis/google-cloud-python/issues/15796) in [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python)
+10. ℹ️ Labeled PR [#26158](https://github.com/open-metadata/OpenMetadata/pull/26158) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
