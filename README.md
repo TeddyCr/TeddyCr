@@ -69,8 +69,8 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [sqlalchemy-redshift Is Back: Reviving a Critical Piece of the Python Data Ecosystem](https://blog.open-metadata.org/sqlalchemy-redshift-is-back-reviving-a-critical-piece-of-the-python-data-ecosystem-1388d8dec83d?source=rss-16e0670af08f------2)
 - [Leveraging the Power of OpenMetadata Data Quality Framework](https://blog.open-metadata.org/leveraging-the-power-of-openmetadata-data-quality-framework-385ba2d8eaf?source=rss-16e0670af08f------2)
 - [Simple, Easy, and Efficient Data Quality with OpenMetadata](https://blog.open-metadata.org/simple-easy-and-efficient-data-quality-with-openmetadata-1c4e7d329364?source=rss-16e0670af08f------2)
 - [How to Integrate OpenMetadata Test Suites with Your Data Pipelines](https://blog.open-metadata.org/how-to-integrate-openmetadata-test-suites-with-your-data-pipelines-d83fb55fa494?source=rss-16e0670af08f------2)
-- [Why an open standard for data quality is important](https://blog.open-metadata.org/why-are-we-building-a-data-quality-standard-1753fae87259?source=rss-16e0670af08f------2)
 <!-- BLOG-POST-LIST:END -->
