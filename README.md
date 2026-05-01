@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27776](https://github.com/open-metadata/OpenMetadata/pull/27776) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. 🎉 Merged PR [#27721](https://github.com/open-metadata/OpenMetadata/pull/27721) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🗣 Commented on [#312](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/312#issuecomment-4331758868) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-4. 🔒 Closed issue [#312](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/312) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-5. 🗣 Commented on [#309](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/309#issuecomment-4331756807) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-6. 🔒 Closed issue [#309](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/309) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-7. 🔒 Closed issue [#264](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/264) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-8. 🗣 Commented on [#264](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/issues/264#issuecomment-4331753725) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-9. 💪 Opened PR [#27776](https://github.com/open-metadata/OpenMetadata/pull/27776) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. 🎉 Merged PR [#27728](https://github.com/open-metadata/OpenMetadata/pull/27728) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. ❌ Closed PR [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+2. 🗣 Commented on [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63#issuecomment-4356424746) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+3. 🗣 Commented on [#107](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/107#issuecomment-4356424496) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+4. ❌ Closed PR [#107](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/107) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+5. ❌ Closed PR [#230](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/230) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+6. 🗣 Commented on [#230](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/230#issuecomment-4356424310) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+7. ❌ Closed PR [#233](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/233) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+8. 🗣 Commented on [#233](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/233#issuecomment-4356424090) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+9. 🗣 Commented on [#261](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/261#issuecomment-4356423850) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+10. ❌ Closed PR [#261](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/261) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
 <!--END_SECTION:activity-->
 
 ---
