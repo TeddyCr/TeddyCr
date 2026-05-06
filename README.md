@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27773](https://github.com/open-metadata/OpenMetadata/pull/27773) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ❌ Closed PR [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-3. 🗣 Commented on [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63#issuecomment-4356424746) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-4. 🗣 Commented on [#107](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/107#issuecomment-4356424496) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-5. ❌ Closed PR [#107](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/107) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-6. ❌ Closed PR [#230](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/230) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-7. 🗣 Commented on [#230](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/230#issuecomment-4356424310) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-8. ❌ Closed PR [#233](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/233) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-9. 🗣 Commented on [#233](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/233#issuecomment-4356424090) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
-10. 🗣 Commented on [#261](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/261#issuecomment-4356423850) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+1. ℹ️ Labeled PR [#27912](https://github.com/open-metadata/OpenMetadata/pull/27912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. ℹ️ Labeled PR [#27925](https://github.com/open-metadata/OpenMetadata/pull/27925) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. ℹ️ Unlabeled PR [#27925](https://github.com/open-metadata/OpenMetadata/pull/27925) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ℹ️ Labeled PR [#27925](https://github.com/open-metadata/OpenMetadata/pull/27925) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 💪 Opened PR [#27925](https://github.com/open-metadata/OpenMetadata/pull/27925) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. ❗ Opened issue [#27923](https://github.com/open-metadata/OpenMetadata/issues/27923) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#27912](https://github.com/open-metadata/OpenMetadata/pull/27912) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. 🎉 Merged PR [#27773](https://github.com/open-metadata/OpenMetadata/pull/27773) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ❌ Closed PR [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
+10. 🗣 Commented on [#63](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift/pull/63#issuecomment-4356424746) in [sqlalchemy-redshift/sqlalchemy-redshift](https://github.com/sqlalchemy-redshift/sqlalchemy-redshift)
 <!--END_SECTION:activity-->
 
 ---
