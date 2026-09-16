@@ -33,16 +33,16 @@ I am a Software Developer at Collate building <a href="https://open-metadata.org
 
 #### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33246](https://github.com/open-metadata/OpenMetadata/pull/33246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-2. ℹ️ Labeled issue [#33229](https://github.com/open-metadata/OpenMetadata/issues/33229) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-3. 🎉 Merged PR [#33242](https://github.com/open-metadata/OpenMetadata/pull/33242) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-4. 🔒 Closed issue [#33227](https://github.com/open-metadata/OpenMetadata/issues/33227) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-5. 💪 Opened PR [#33242](https://github.com/open-metadata/OpenMetadata/pull/33242) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-6. ℹ️ Assigned issue [#33241](https://github.com/open-metadata/OpenMetadata/issues/33241) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-7. ℹ️ Assigned issue [#33239](https://github.com/open-metadata/OpenMetadata/issues/33239) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-8. ℹ️ Assigned issue [#33238](https://github.com/open-metadata/OpenMetadata/issues/33238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-9. ℹ️ Assigned issue [#33237](https://github.com/open-metadata/OpenMetadata/issues/33237) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
-10. ℹ️ Assigned issue [#33236](https://github.com/open-metadata/OpenMetadata/issues/33236) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+1. 🎉 Merged PR [#32071](https://github.com/open-metadata/OpenMetadata/pull/32071) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+2. 🔒 Closed issue [#30362](https://github.com/open-metadata/OpenMetadata/issues/30362) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+3. 💪 Opened PR [#33246](https://github.com/open-metadata/OpenMetadata/pull/33246) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+4. ℹ️ Labeled issue [#33229](https://github.com/open-metadata/OpenMetadata/issues/33229) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+5. 🎉 Merged PR [#33242](https://github.com/open-metadata/OpenMetadata/pull/33242) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+6. 🔒 Closed issue [#33227](https://github.com/open-metadata/OpenMetadata/issues/33227) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+7. 💪 Opened PR [#33242](https://github.com/open-metadata/OpenMetadata/pull/33242) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+8. ℹ️ Assigned issue [#33241](https://github.com/open-metadata/OpenMetadata/issues/33241) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+9. ℹ️ Assigned issue [#33239](https://github.com/open-metadata/OpenMetadata/issues/33239) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
+10. ℹ️ Assigned issue [#33238](https://github.com/open-metadata/OpenMetadata/issues/33238) in [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 <!--END_SECTION:activity-->
 
 ---
